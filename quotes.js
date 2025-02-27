@@ -47,6 +47,12 @@ export const quotes = [{
   quote: "Without music, life would be a mistake.",
   type: 'Insipirational quote'
 },{
+  quote: "The only true wisdom is in knowing you know nothing.",
+  type: 'Inspirational quote'
+},{
+  quote: "If you cannot do great things, do small things in a great way",
+  type: 'Inspirational quote'
+},{
   quote: "There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everthing is a miracle.",
   type: 'Insipirational quote'
 },{
